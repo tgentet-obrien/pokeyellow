@@ -1,5 +1,5 @@
 # compiled objects
-*.o
+# *.o
 
 # compiled graphics
 # *.1bpp
@@ -10,20 +10,20 @@
 *.pcm
 
 # compiled roms
-*.gbc
-*.gb
-*.patch
+# *.gbc
+# *.gb
+# *.patch
 
 # rgbds extras
-*.map
-*.sym
+# *.map
+# *.sym
 
 # tool binaries
 *.exe
 
 # precompiled python
-*.pyc
-*$py.class
+# *.pyc
+# *$py.class
 
 # save game files
 *.sgm
