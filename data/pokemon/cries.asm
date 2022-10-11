@@ -197,5 +197,5 @@ CryData::
 	mon_cry SFX_CRY_25, $44, $20 ; Weepinbell
 	mon_cry SFX_CRY_25, $66, $CC ; Victreebel
 	mon_cry SFX_CRY_00, $00, $00 ; MissingNo.
-	mon_cry SFX_CRY_00, $00, $00 ; Karen
+	mon_cry SFX_CRY_21, $66, $CC ; Karen
 	assert_table_length NUM_POKEMON_INDEXES

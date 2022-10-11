@@ -7,8 +7,8 @@
 	db 255 ; catch rate
 	db 64 ; base exp
 
-	INCBIN "gfx/pokemon/front/ditto.pic", 0, 1 ; sprite dimensions
-	dw DittoPicFront, DittoPicBack
+	INCBIN "gfx/pokemon/front/karen.pic", 0, 1 ; sprite dimensions
+	dw KarenPicFront, KarenPicBack
 
 	db SCREECH, LEER, SCRATCH, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate
